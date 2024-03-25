@@ -12,7 +12,7 @@ This is a simple todo application built using React and Ant Design's Popconfirm 
 
 1. Clone the repository:
 
-git clone https://github.com/nagutha3005/nagutha
+git clone https://github.com/nagutha3005/todo
 
 npm install
 
